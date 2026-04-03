@@ -8,6 +8,7 @@ I was trying to move to ProtonPass, but had many passwords scattered across diff
 - <img width="703" height="466" alt="image" src="https://github.com/user-attachments/assets/15ae9bd5-cf68-470e-ac16-71a95a905808" />
 - open the exported ZIP, extract the data.json somehwere
 - start PPM, select the data.json file
+- <img width="377" height="199" alt="image" src="https://github.com/user-attachments/assets/bae03894-b7d7-4243-b39b-1d52fb582335" />
 - click "merge"
 - click "save"
 - replace the data.json file in the zip
