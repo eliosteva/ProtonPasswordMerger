@@ -14,3 +14,8 @@ I was trying to move to ProtonPass, but had many passwords scattered across diff
 - optional: delete all passwords in PP, or move them to a different vault
 - import the zip in PP
 - <img width="714" height="617" alt="image" src="https://github.com/user-attachments/assets/82a3ea3d-8721-43dc-b552-b0a3ca791080" />
+
+# Disclaimer:
+The software is provided “as is," and you use the software at your own risk.
+It works on my laptop with AMD CPU and Windows 11. It probably won't work for versions older than Windows 10. 
+It also probably requires some form of .Net redistributable installed.
